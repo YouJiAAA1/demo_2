@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://xxx/xxx/" name="origin" review="just-test.auto.awesome.com"/>
-  <default remote="origin" revision="master" sync-c="true" sync-j="5"/>
-  <!-- Platform Zone -->
-  <project
-      name="myawesomemodule"
-      revision="master"
-      path="release"
-      groups="default,release-areas">
-  </project>
+    <remote name="origin" fetch=".." review="https://github.com/group-xxx/" />
+    <default revision="master" remote="origin" sync-j="6" />
+    <project name="example1" path="source/example1" revision="main" />
+    <project name="example2" path="source/example2" revision="main" />
+</manifest>
+ 
