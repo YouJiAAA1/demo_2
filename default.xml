@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="demo_NFC" fetch="https://github.com/YouJi-A/demo_NFC.git"/>
-    <default revision="master" remote="demo_NFC" sync-j="6" />
-    <project name="" path="demo_NFC_1" revision="main" />
+    <remote name="origin" fetch=".." review="https://github.com/YouJiAAA1/" />
+    <default revision="master" remote="origin" sync-j="6" />
+    <project name="demo_2" path="demo_2" revision="main" />
 </manifest>
- 
