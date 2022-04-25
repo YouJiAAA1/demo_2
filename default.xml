@@ -2,7 +2,5 @@
 <manifest>
     <remote name="origin" fetch=".." review="https://github.com/YouJi-A/demo_NFC.git/" />
     <default revision="master" remote="origin" sync-j="6" />
-    <project name="example1" path="source/example1" revision="main" />
-    <project name="example2" path="source/example2" revision="main" />
 </manifest>
  
