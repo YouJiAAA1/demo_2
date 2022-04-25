@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="demo_NFC" fetch="https://github.com/You-Ji-A/"/>
+    <remote name="demo_NFC" fetch=".."/>
     <default revision="master" remote="demo_NFC" sync-j="6" />
     <project name="demo_NFC" path="demo_NFC.git" revision="main" />
 </manifest>
