@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" fetch=".." review="https://github.com/YouJiAAA1/" />
+    <remote name="origin" fetch="https://github.com/YouJiAAA1" review="https://github.com/YouJiAAA1/" />
     <default revision="master" remote="origin" sync-j="6" />
     <project name="demo_2" path="demo_2" revision="main" />
 </manifest>
