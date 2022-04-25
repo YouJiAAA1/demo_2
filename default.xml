@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" fetch=".." review="https://github.com/group-xxx/" />
-    <default revision="master" remote="origin" sync-j="6" />
-    <project name="example1" path="source/example1" revision="main" />
-    <project name="example2" path="source/example2" revision="main" />
+    <remote name="demo_NFC" fetch="https://github.com/You-Ji-A/"/>
+    <default revision="master" remote="demo_NFC" sync-j="6" />
+    <project name="demo_NFC" path="demo_NFC.git" revision="main" />
 </manifest>
  
